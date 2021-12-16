@@ -1,0 +1,16 @@
+com\cuatroa\retodos\controller\ClotheController.class
+com\cuatroa\retodos\repository\crud\OrderCrudRepository.class
+com\cuatroa\retodos\service\FraganceService.class
+com\cuatroa\retodos\model\User.class
+com\cuatroa\retodos\service\OrderService.class
+com\cuatroa\retodos\repository\crud\FraganceCrudRepository.class
+com\cuatroa\retodos\repository\OrderRepository.class
+com\cuatroa\retodos\repository\UserRepository.class
+com\cuatroa\retodos\service\UserService.class
+com\cuatroa\retodos\model\Order.class
+com\cuatroa\retodos\controller\OrderController.class
+com\cuatroa\retodos\controller\UserController.class
+com\cuatroa\retodos\model\Fragance.class
+com\cuatroa\retodos\repository\crud\UserCrudRepository.class
+com\cuatroa\retodos\RetodosApplication.class
+com\cuatroa\retodos\repository\FraganceRepository.class
